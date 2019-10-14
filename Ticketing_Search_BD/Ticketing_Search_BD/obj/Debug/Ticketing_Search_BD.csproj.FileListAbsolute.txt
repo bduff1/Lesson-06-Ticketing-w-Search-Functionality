@@ -1,0 +1,7 @@
+C:\Users\Brian\Desktop\.Net Database Programming\Lesson 06\Ticketing_Search_BD\Ticketing_Search_BD\bin\Debug\Ticketing_Search_BD.exe.config
+C:\Users\Brian\Desktop\.Net Database Programming\Lesson 06\Ticketing_Search_BD\Ticketing_Search_BD\bin\Debug\Ticketing_Search_BD.exe
+C:\Users\Brian\Desktop\.Net Database Programming\Lesson 06\Ticketing_Search_BD\Ticketing_Search_BD\bin\Debug\Ticketing_Search_BD.pdb
+C:\Users\Brian\Desktop\.Net Database Programming\Lesson 06\Ticketing_Search_BD\Ticketing_Search_BD\obj\Debug\Ticketing_Search_BD.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\.Net Database Programming\Lesson 06\Ticketing_Search_BD\Ticketing_Search_BD\obj\Debug\Ticketing_Search_BD.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\.Net Database Programming\Lesson 06\Ticketing_Search_BD\Ticketing_Search_BD\obj\Debug\Ticketing_Search_BD.exe
+C:\Users\Brian\Desktop\.Net Database Programming\Lesson 06\Ticketing_Search_BD\Ticketing_Search_BD\obj\Debug\Ticketing_Search_BD.pdb
